@@ -65,7 +65,14 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Chat-App.git
+
+```
+
+Go to the project directory:
+
+```bash
 cd Chat-App
+
 ```
 
 Install dependencies for both frontend & backend:
