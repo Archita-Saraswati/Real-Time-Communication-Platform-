@@ -1,5 +1,5 @@
 
-# 📨 ConvoWise: A Real-Time Chat Application
+# 📨 ConvoWise: A Real-Time Communication Platform 
 
 ConvoWise is a feature-rich MERN stack chat application designed for seamless real-time communication. It provides a responsive and intuitive UI, enabling users to send instant messages and track online statuses. The app leverages Socket.io for real-time updates, while JWT-based authentication ensures secure access. Zustand efficiently manages global state, and TailwindCSS with Daisy UI enhances the UI/UX with modern, customizable components.
 
